@@ -1,0 +1,926 @@
+label_annotations {
+  mid: "/m/02_58j"
+  description: "Bedroom"
+  score: 0.9954090714454651
+  topicality: 0.9954090714454651
+}
+label_annotations {
+  mid: "/m/0c_jw"
+  description: "Furniture"
+  score: 0.9871629476547241
+  topicality: 0.9871629476547241
+}
+label_annotations {
+  mid: "/m/03ssj5"
+  description: "Bed"
+  score: 0.9815606474876404
+  topicality: 0.9815606474876404
+}
+label_annotations {
+  mid: "/m/06ht1"
+  description: "Room"
+  score: 0.9798617362976074
+  topicality: 0.9798617362976074
+}
+label_annotations {
+  mid: "/m/083jv"
+  description: "White"
+  score: 0.96750408411026
+  topicality: 0.96750408411026
+}
+label_annotations {
+  mid: "/m/04mygm"
+  description: "Bed sheet"
+  score: 0.9615987539291382
+  topicality: 0.9615987539291382
+}
+label_annotations {
+  mid: "/m/02rfdq"
+  description: "Interior design"
+  score: 0.9585028290748596
+  topicality: 0.9585028290748596
+}
+label_annotations {
+  mid: "/m/05wrt"
+  description: "Property"
+  score: 0.956964910030365
+  topicality: 0.956964910030365
+}
+label_annotations {
+  mid: "/m/03mcr3"
+  description: "Bedding"
+  score: 0.9558467864990234
+  topicality: 0.9558467864990234
+}
+label_annotations {
+  mid: "/m/0l7_8"
+  description: "Floor"
+  score: 0.9509138464927673
+  topicality: 0.9509138464927673
+}
+text_annotations {
+  locale: "en"
+  description: "sara Face,\n"
+  bounding_poly {
+    vertices {
+      x: 232
+      y: 366
+    }
+    vertices {
+      x: 290
+      y: 366
+    }
+    vertices {
+      x: 290
+      y: 382
+    }
+    vertices {
+      x: 232
+      y: 382
+    }
+  }
+}
+text_annotations {
+  description: "sara"
+  bounding_poly {
+    vertices {
+      x: 291
+      y: 378
+    }
+    vertices {
+      x: 266
+      y: 380
+    }
+    vertices {
+      x: 265
+      y: 369
+    }
+    vertices {
+      x: 290
+      y: 367
+    }
+  }
+}
+text_annotations {
+  description: "Face"
+  bounding_poly {
+    vertices {
+      x: 263
+      y: 381
+    }
+    vertices {
+      x: 241
+      y: 383
+    }
+    vertices {
+      x: 240
+      y: 371
+    }
+    vertices {
+      x: 262
+      y: 369
+    }
+  }
+}
+text_annotations {
+  description: ","
+  bounding_poly {
+    vertices {
+      x: 236
+      y: 383
+    }
+    vertices {
+      x: 234
+      y: 383
+    }
+    vertices {
+      x: 233
+      y: 372
+    }
+    vertices {
+      x: 235
+      y: 372
+    }
+  }
+}
+safe_search_annotation {
+  adult: VERY_UNLIKELY
+  spoof: VERY_UNLIKELY
+  medical: VERY_UNLIKELY
+  violence: VERY_UNLIKELY
+  racy: POSSIBLE
+}
+image_properties_annotation {
+  dominant_colors {
+    colors {
+      color {
+        red: 204.0
+        green: 202.0
+        blue: 203.0
+      }
+      score: 0.44948774576187134
+      pixel_fraction: 0.3503958582878113
+    }
+    colors {
+      color {
+        red: 126.0
+        green: 120.0
+        blue: 115.0
+      }
+      score: 0.06896547973155975
+      pixel_fraction: 0.08190008252859116
+    }
+    colors {
+      color {
+        red: 21.0
+        green: 21.0
+        blue: 19.0
+      }
+      score: 0.03923266753554344
+      pixel_fraction: 0.0260032769292593
+    }
+    colors {
+      color {
+        red: 228.0
+        green: 228.0
+        blue: 229.0
+      }
+      score: 0.3121384382247925
+      pixel_fraction: 0.13718263804912567
+    }
+    colors {
+      color {
+        red: 159.0
+        green: 153.0
+        blue: 150.0
+      }
+      score: 0.045861851423978806
+      pixel_fraction: 0.3107425570487976
+    }
+    colors {
+      color {
+        red: 50.0
+        green: 50.0
+        blue: 48.0
+      }
+      score: 0.03257162868976593
+      pixel_fraction: 0.032282281666994095
+    }
+    colors {
+      color {
+        red: 89.0
+        green: 84.0
+        blue: 79.0
+      }
+      score: 0.02377408556640148
+      pixel_fraction: 0.0352170355618
+    }
+    colors {
+      color {
+        red: 47.0
+        green: 54.0
+        blue: 33.0
+      }
+      score: 0.008446801453828812
+      pixel_fraction: 0.0020475019700825214
+    }
+    colors {
+      color {
+        red: 75.0
+        green: 81.0
+        blue: 59.0
+      }
+      score: 0.005130941513925791
+      pixel_fraction: 0.0020475019700825214
+    }
+    colors {
+      color {
+        red: 44.0
+        green: 53.0
+        blue: 29.0
+      }
+      score: 0.0043384418822824955
+      pixel_fraction: 0.0006142506026662886
+    }
+  }
+}
+crop_hints_annotation {
+  crop_hints {
+    bounding_poly {
+      vertices {
+        x: 144
+      }
+      vertices {
+        x: 784
+      }
+      vertices {
+        x: 784
+        y: 639
+      }
+      vertices {
+        x: 144
+        y: 639
+      }
+    }
+    confidence: 0.5625
+    importance_fraction: 0.8533334732055664
+  }
+}
+full_text_annotation {
+  pages {
+    property {
+      detected_languages {
+        language_code: "en"
+        confidence: 1.0
+      }
+    }
+    width: 960
+    height: 640
+    blocks {
+      property {
+        detected_languages {
+          language_code: "en"
+          confidence: 1.0
+        }
+      }
+      bounding_box {
+        vertices {
+          x: 291
+          y: 378
+        }
+        vertices {
+          x: 234
+          y: 383
+        }
+        vertices {
+          x: 233
+          y: 371
+        }
+        vertices {
+          x: 290
+          y: 366
+        }
+      }
+      paragraphs {
+        property {
+          detected_languages {
+            language_code: "en"
+            confidence: 1.0
+          }
+        }
+        bounding_box {
+          vertices {
+            x: 291
+            y: 378
+          }
+          vertices {
+            x: 234
+            y: 383
+          }
+          vertices {
+            x: 233
+            y: 371
+          }
+          vertices {
+            x: 290
+            y: 366
+          }
+        }
+        words {
+          property {
+            detected_languages {
+              language_code: "en"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 291
+              y: 378
+            }
+            vertices {
+              x: 266
+              y: 380
+            }
+            vertices {
+              x: 265
+              y: 369
+            }
+            vertices {
+              x: 290
+              y: 367
+            }
+          }
+          symbols {
+            property {
+              detected_languages {
+                language_code: "en"
+              }
+            }
+            bounding_box {
+              vertices {
+                x: 291
+                y: 378
+              }
+              vertices {
+                x: 285
+                y: 379
+              }
+              vertices {
+                x: 284
+                y: 368
+              }
+              vertices {
+                x: 290
+                y: 367
+              }
+            }
+            text: "s"
+            confidence: 0.12999999523162842
+          }
+          symbols {
+            property {
+              detected_languages {
+                language_code: "en"
+              }
+            }
+            bounding_box {
+              vertices {
+                x: 282
+                y: 379
+              }
+              vertices {
+                x: 278
+                y: 379
+              }
+              vertices {
+                x: 277
+                y: 368
+              }
+              vertices {
+                x: 281
+                y: 368
+              }
+            }
+            text: "a"
+            confidence: 0.15000000596046448
+          }
+          symbols {
+            property {
+              detected_languages {
+                language_code: "en"
+              }
+            }
+            bounding_box {
+              vertices {
+                x: 278
+                y: 379
+              }
+              vertices {
+                x: 273
+                y: 379
+              }
+              vertices {
+                x: 272
+                y: 369
+              }
+              vertices {
+                x: 277
+                y: 368
+              }
+            }
+            text: "r"
+            confidence: 0.14000000059604645
+          }
+          symbols {
+            property {
+              detected_languages {
+                language_code: "en"
+              }
+              detected_break {
+                type: SPACE
+              }
+            }
+            bounding_box {
+              vertices {
+                x: 271
+                y: 380
+              }
+              vertices {
+                x: 266
+                y: 380
+              }
+              vertices {
+                x: 265
+                y: 370
+              }
+              vertices {
+                x: 270
+                y: 369
+              }
+            }
+            text: "a"
+            confidence: 0.3199999928474426
+          }
+          confidence: 0.18000000715255737
+        }
+        words {
+          property {
+            detected_languages {
+              language_code: "en"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 263
+              y: 381
+            }
+            vertices {
+              x: 241
+              y: 383
+            }
+            vertices {
+              x: 240
+              y: 371
+            }
+            vertices {
+              x: 262
+              y: 369
+            }
+          }
+          symbols {
+            property {
+              detected_languages {
+                language_code: "en"
+              }
+            }
+            bounding_box {
+              vertices {
+                x: 263
+                y: 381
+              }
+              vertices {
+                x: 260
+                y: 381
+              }
+              vertices {
+                x: 259
+                y: 370
+              }
+              vertices {
+                x: 262
+                y: 370
+              }
+            }
+            text: "F"
+            confidence: 0.25
+          }
+          symbols {
+            property {
+              detected_languages {
+                language_code: "en"
+              }
+            }
+            bounding_box {
+              vertices {
+                x: 259
+                y: 381
+              }
+              vertices {
+                x: 254
+                y: 381
+              }
+              vertices {
+                x: 253
+                y: 371
+              }
+              vertices {
+                x: 258
+                y: 370
+              }
+            }
+            text: "a"
+            confidence: 0.3700000047683716
+          }
+          symbols {
+            property {
+              detected_languages {
+                language_code: "en"
+              }
+            }
+            bounding_box {
+              vertices {
+                x: 250
+                y: 382
+              }
+              vertices {
+                x: 244
+                y: 383
+              }
+              vertices {
+                x: 243
+                y: 372
+              }
+              vertices {
+                x: 249
+                y: 371
+              }
+            }
+            text: "c"
+            confidence: 0.07000000029802322
+          }
+          symbols {
+            property {
+              detected_languages {
+                language_code: "en"
+              }
+            }
+            bounding_box {
+              vertices {
+                x: 244
+                y: 382
+              }
+              vertices {
+                x: 241
+                y: 382
+              }
+              vertices {
+                x: 240
+                y: 371
+              }
+              vertices {
+                x: 243
+                y: 371
+              }
+            }
+            text: "e"
+            confidence: 0.029999999329447746
+          }
+          confidence: 0.18000000715255737
+        }
+        words {
+          property {
+            detected_languages {
+              language_code: "en"
+            }
+          }
+          bounding_box {
+            vertices {
+              x: 236
+              y: 383
+            }
+            vertices {
+              x: 234
+              y: 383
+            }
+            vertices {
+              x: 233
+              y: 372
+            }
+            vertices {
+              x: 235
+              y: 372
+            }
+          }
+          symbols {
+            property {
+              detected_languages {
+                language_code: "en"
+              }
+              detected_break {
+                type: LINE_BREAK
+              }
+            }
+            bounding_box {
+              vertices {
+                x: 236
+                y: 383
+              }
+              vertices {
+                x: 234
+                y: 383
+              }
+              vertices {
+                x: 233
+                y: 372
+              }
+              vertices {
+                x: 235
+                y: 372
+              }
+            }
+            text: ","
+            confidence: 0.3700000047683716
+          }
+          confidence: 0.3700000047683716
+        }
+        confidence: 0.20000000298023224
+      }
+      block_type: TEXT
+      confidence: 0.20000000298023224
+    }
+  }
+  text: "sara Face,\n"
+}
+web_detection {
+  web_entities {
+    entity_id: "/m/02_58j"
+    score: 1.0929429531097412
+    description: "Bedroom"
+  }
+  web_entities {
+    entity_id: "/m/02rfdq"
+    score: 0.7811010479927063
+    description: "Interior Design Services"
+  }
+  web_entities {
+    entity_id: "/m/02422r"
+    score: 0.7095999717712402
+    description: "Futon"
+  }
+  web_entities {
+    entity_id: "/m/06ht1"
+    score: 0.6169000267982483
+    description: "Room"
+  }
+  web_entities {
+    entity_id: "/m/03f6tq"
+    score: 0.6055999994277954
+    description: "Living room"
+  }
+  web_entities {
+    entity_id: "/m/03jm5"
+    score: 0.5303999781608582
+    description: "House"
+  }
+  web_entities {
+    entity_id: "/m/03ssj5"
+    score: 0.4909999966621399
+    description: "Bed"
+  }
+  web_entities {
+    entity_id: "/m/01l0mw"
+    score: 0.48170968890190125
+    description: "Home"
+  }
+  web_entities {
+    entity_id: "/m/01mzpv"
+    score: 0.4041000008583069
+    description: "Chair"
+  }
+  web_entities {
+    entity_id: "/m/06k1r"
+    score: 0.3885999917984009
+    description: "Real Estate"
+  }
+  full_matching_images {
+    url: "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco/at%2Fhouse%20tours%2F2019-07%2FKatherine%20OB%2FBed_3"
+  }
+  full_matching_images {
+    url: "https://cdn.apartmenttherapy.info/image/upload/v1562801455/at/house%20tours/2019-07/Katherine%20OB/Bed_3.jpg"
+  }
+  full_matching_images {
+    url: "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500/at%2Fhouse%20tours%2F2019-07%2FKatherine%20OB%2FBed_3"
+  }
+  full_matching_images {
+    url: "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_16:9/at%2Fhouse%20tours%2F2019-07%2FKatherine%20OB%2FBed_3"
+  }
+  full_matching_images {
+    url: "https://pbs.twimg.com/media/ERgX0o5XkAE46IZ.jpg"
+  }
+  full_matching_images {
+    url: "https://i.pinimg.com/originals/ce/2b/c9/ce2bc918b62a015f69ac4ed2c0c40ae4.jpg"
+  }
+  full_matching_images {
+    url: "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_768/at%2Fhouse%20tours%2F2019-07%2FKatherine%20OB%2FBed_3"
+  }
+  full_matching_images {
+    url: "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_660/at/house%20tours/2019-07/Katherine%20OB/Bed_3"
+  }
+  full_matching_images {
+    url: "https://i.pinimg.com/474x/ce/2b/c9/ce2bc918b62a015f69ac4ed2c0c40ae4.jpg"
+  }
+  full_matching_images {
+    url: "https://img.rnudah.com/luxury/12/128020025565093.jpg"
+  }
+  partial_matching_images {
+    url: "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/at%2Fhouse%20tours%2F2019-07%2FKatherine%20OB%2FBed_3"
+  }
+  partial_matching_images {
+    url: "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/at%2Fhouse%20tours%2F2019-07%2FKatherine%20OB%2FBed_3"
+  }
+  partial_matching_images {
+    url: "https://preview.redd.it/ron99ekmsi941.png?auto=webp&s=fbc654f725a5498fe6e44ba480689d6976e89d6a"
+  }
+  partial_matching_images {
+    url: "https://i.redd.it/ron99ekmsi941.png"
+  }
+  partial_matching_images {
+    url: "https://preview.redd.it/ron99ekmsi941.png?width=216&crop=smart&auto=webp&s=579662274d3649cc1fea66d0c8ee878337b77021"
+  }
+  pages_with_matching_images {
+    url: "https://www.apartmenttherapy.com/adult-bedroom-real-estate-36656793"
+    page_title: "7 Things a \342\200\234<b>Grown</b>-<b>Up</b>\342\200\235 <b>Bedroom</b> Always Has - Apartment Therapy"
+    full_matching_images {
+      url: "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/at%2Fhouse%20tours%2F2019-07%2FKatherine%20OB%2FBed_3"
+    }
+    full_matching_images {
+      url: "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500/at%2Fhouse%20tours%2F2019-07%2FKatherine%20OB%2FBed_3"
+    }
+    full_matching_images {
+      url: "https://cdn.apartmenttherapy.info/image/upload/v1562801455/at/house%20tours/2019-07/Katherine%20OB/Bed_3.jpg"
+    }
+    full_matching_images {
+      url: "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_768/at%2Fhouse%20tours%2F2019-07%2FKatherine%20OB%2FBed_3"
+    }
+    full_matching_images {
+      url: "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_16:9/at%2Fhouse%20tours%2F2019-07%2FKatherine%20OB%2FBed_3"
+    }
+    full_matching_images {
+      url: "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/at%2Fhouse%20tours%2F2019-07%2FKatherine%20OB%2FBed_3"
+    }
+  }
+  pages_with_matching_images {
+    url: "https://thezakariagroup.com/7-things-a-grown-up-bedroom-always-has/"
+    page_title: "7 Things a &quot;<b>Grown</b>-<b>Up</b>&quot; <b>Bedroom</b> Always Has - The Zakaria Group"
+    full_matching_images {
+      url: "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_660/at/house%20tours/2019-07/Katherine%20OB/Bed_3"
+    }
+  }
+  pages_with_matching_images {
+    url: "https://www.apartmenttherapy.com/archive/2019/10/10"
+    page_title: "Apartment Therapy Archive - Home October 10, 2019 | Apartment ..."
+    full_matching_images {
+      url: "https://cdn.apartmenttherapy.info/image/upload/v1562801455/at/house%20tours/2019-07/Katherine%20OB/Bed_3.jpg"
+    }
+  }
+  pages_with_matching_images {
+    url: "https://hub.moderamidtown.com/apartment-therapy-saving-the-world-one-room-at-a-time/7-things-a-grown-up-bedroom-always-has-3"
+    page_title: "7 Things a &quot;<b>Grown</b>-<b>Up</b>&quot; <b>Bedroom</b> Always Has - Modera Midtown"
+    full_matching_images {
+      url: "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500/at%2Fhouse%20tours%2F2019-07%2FKatherine%20OB%2FBed_3"
+    }
+    full_matching_images {
+      url: "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_660/at/house%20tours/2019-07/Katherine%20OB/Bed_3"
+    }
+  }
+  pages_with_matching_images {
+    url: "https://www.apartmenttherapy.com/collection/nesting"
+    page_title: "Nesting | Apartment Therapy"
+    full_matching_images {
+      url: "https://cdn.apartmenttherapy.info/image/upload/v1562801455/at/house%20tours/2019-07/Katherine%20OB/Bed_3.jpg"
+    }
+  }
+  pages_with_matching_images {
+    url: "https://hub.moderasandysprings.com/nursery-kids-apartment-therapy/7-things-a-grown-up-bedroom-always-has-4"
+    page_title: "7 Things a &quot;<b>Grown</b>-<b>Up</b>&quot; <b>Bedroom</b> Always Has - Modera Sandy Springs"
+    full_matching_images {
+      url: "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500/at%2Fhouse%20tours%2F2019-07%2FKatherine%20OB%2FBed_3"
+    }
+  }
+  pages_with_matching_images {
+    url: "https://sofiaconsola.wordpress.com/2019/10/10/7-things-a-grown-up-bedroom-always-has/"
+    page_title: "7 Things a \342\200\234<b>Grown</b>-<b>Up</b>\342\200\235 <b>Bedroom</b> Always Has \342\200\223 Sofia Consola"
+    full_matching_images {
+      url: "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_660/at/house%20tours/2019-07/Katherine%20OB/Bed_3"
+    }
+  }
+  pages_with_matching_images {
+    url: "https://www.apartmenttherapy.com/a-laser-cut-allwood-record-final-frame-189100"
+    page_title: "A Laser Cut All-Wood Record | Apartment Therapy"
+    full_matching_images {
+      url: "https://cdn.apartmenttherapy.info/image/upload/v1562801455/at/house%20tours/2019-07/Katherine%20OB/Bed_3.jpg"
+    }
+  }
+  pages_with_matching_images {
+    url: "http://www.apartmenttherapy.com/the-online-sales-tax-man-comet-164219"
+    page_title: "The Amazon.com Sales Tax Man Cometh! | Apartment Therapy"
+    full_matching_images {
+      url: "https://cdn.apartmenttherapy.info/image/upload/v1562801455/at/house%20tours/2019-07/Katherine%20OB/Bed_3.jpg"
+    }
+  }
+  pages_with_matching_images {
+    url: "https://www.apartmenttherapy.com/warm-industrial-studio-apartment-in-new-orleans-36624800"
+    page_title: "This New Orleans Studio Apartment is Located in a 140-Year-Old ..."
+    full_matching_images {
+      url: "https://cdn.apartmenttherapy.info/image/upload/v1562801455/at/house%20tours/2019-07/Katherine%20OB/Bed_3.jpg"
+    }
+    full_matching_images {
+      url: "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco/at%2Fhouse%20tours%2F2019-07%2FKatherine%20OB%2FBed_3"
+    }
+  }
+  visually_similar_images {
+    url: "https://www.kiss1077.ca/wp-content/uploads/sites/30/2019/10/at_house20tours_2019-07_Katherine20OB_Bed_3.jpg"
+  }
+  visually_similar_images {
+    url: "https://priceless-magazines.com/wp-content/uploads/2017/04/High-res-_DSC3303_opt.jpeg"
+  }
+  visually_similar_images {
+    url: "http://www.t-rifik.co.za/wp-content/uploads/2018/05/2b51ad0438c759fed9f6e592f4cbbb01.jpg"
+  }
+  visually_similar_images {
+    url: "https://www.colonycabincreek.com/blog/wp-content/uploads/2019/02/apartment-bedroom-825x510.jpeg"
+  }
+  visually_similar_images {
+    url: "https://dw1ixebl10gex.cloudfront.net/wp-content/uploads/2016/03/17-Decorating101-GrownUp-Pastels-Amodio-HH_MR15.jpg"
+  }
+  visually_similar_images {
+    url: "https://i.pinimg.com/originals/e2/59/5e/e2595e1747c10643da74457337d86733.jpg"
+  }
+  visually_similar_images {
+    url: "https://i.pinimg.com/originals/b7/cc/22/b7cc2215791aeeb630c2a74fcfaa9a6d.jpg"
+  }
+  visually_similar_images {
+    url: "https://cdn.decorpad.com/photos/2017/01/20/m_pink-and-gray-grownup-bedroom.jpg"
+  }
+  visually_similar_images {
+    url: "https://i.pinimg.com/originals/1c/0f/a0/1c0fa09401ee5cb395282e343873570d.jpg"
+  }
+  visually_similar_images {
+    url: "https://i.pinimg.com/736x/7e/53/17/7e5317634d1bd1c185e9a37445e922fe.jpg"
+  }
+  best_guess_labels {
+    label: "grown up bedrooms"
+    language_code: "en"
+  }
+}
+localized_object_annotations {
+  mid: "/m/01s105"
+  name: "Cabinetry"
+  score: 0.7267218828201294
+  bounding_poly {
+    normalized_vertices {
+      x: 0.5188177227973938
+      y: 0.49711063504219055
+    }
+    normalized_vertices {
+      x: 0.7730382084846497
+      y: 0.49711063504219055
+    }
+    normalized_vertices {
+      x: 0.7730382084846497
+      y: 0.7815935611724854
+    }
+    normalized_vertices {
+      x: 0.5188177227973938
+      y: 0.7815935611724854
+    }
+  }
+}
+localized_object_annotations {
+  mid: "/m/03ssj5"
+  name: "Bed"
+  score: 0.5751982927322388
+  bounding_poly {
+    normalized_vertices {
+      x: 0.00011729371180990711
+      y: 0.47236061096191406
+    }
+    normalized_vertices {
+      x: 0.6469895243644714
+      y: 0.47236061096191406
+    }
+    normalized_vertices {
+      x: 0.6469895243644714
+      y: 0.9933438897132874
+    }
+   
